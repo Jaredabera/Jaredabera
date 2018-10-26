@@ -20,3 +20,9 @@
   url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: This is another project.
+name: C++
+  i18n: cC++
+  gh_user: C++
+  repo: cC++
+  img: /static/assets/img/landing/c++.png
+  desc: This project is other's project. I use another request to get repo's information.
